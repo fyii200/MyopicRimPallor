@@ -1,4 +1,4 @@
-## Sectoral changes in rim pallor due to refractive error
-**analysis.r**: R script for performing all data preprocessing and regression analyses described in the manuscript.
+## Sectoral changes in rim pallor across refractive error
+**analysis.r**: R script for data preprocessing and regression analyses.
 
-*To be further populated following conclusion of peer review*
+[Link to publication](https://www.sciencedirect.com/science/article/pii/S266691452500003X#sec5)
